@@ -16,7 +16,7 @@ Rory#2873
 
 ![discord](discord.png)
 
-## Reading Assignments:
+## 2. Reading Assignments:
 
 ### The Open Source Definition
 
@@ -34,6 +34,20 @@ Tips on answering questions:
 
 In this chapter, "Catalogs", we were told of a student named Jesse Jordan who created a search engine using multiple different pre-existing technologies. The Recording Industry Association of America (RIAA) ended up threatening to sue him for $15,000,000, forcing Jesse to settle and give up the $12,000 dollars that he had spent years saving up. My first impression from reading that chapter is that the RIAA is evil. They forced a college student to pay thousands of dollars for something that he accidentally did. They didn't issue a warning but instead jumped straight to suing him for millions of dollars, when the president of the RIAA already makes $1 million a year. In regards to open-source software, this chapter serves as a warning to what can happen when freedom isn't allowed on created properties. Luckily, open-source software is made accessible to anyone and people can't really be sued for using other people's open-source software. If that was the case, people would be so busy suing each other that we couldn't really produce software. The concept of open-souce software allows programmers to develop projects without fear of "stealing" other people's work, since OSS is freely available to anyone. 
 
-## Linux
+## 3. Linux
 
 ![man tree](mantree.png)
+
+## 4. Regex
+
+### Answers to part 1:
+decimals: ^-?[0-9]*(,*[0-9]{3})*(\.){0,1}[0-9]*e*[0-9]+$
+phone numbers: ([0-9] )?\(?([0-9]{3})[- \)]?[0-9]{3}[ -]?[0-9]{4}
+emails: ((\w*\.)?\w*\.?\w)\+?[\w]*@
+html: <(\w*).*>.*</\w*>
+image files: ((\w*))\.(png|jpg|gif)$
+trimming whitespace: ^\s*(.*)\s*$
+log file: at (\w*).(\w*).(\w*)\(((\w*).(\w*)):([0-9]*)\)
+
+![proof of 7 completion](regex.png)
+
