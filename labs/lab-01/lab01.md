@@ -58,3 +58,11 @@ In this chapter, "Catalogs", we were told of a student named Jesse Jordan who cr
 ## 5. Blockly Maze
 
 ![Maze solution](maze.png)
+
+## 6. Reflection
+
+1. The open source project, "Youtube Center" (https://github.com/YePpHa/YouTubeCenter) would be interesting to evaluate. Youtube Center is a Google Chrome extension that allows users to download videos, select preferred video quality, and many more features that enhance the Youtube experience. I use Youtube on a daily basis, so it would be interesting to see how you could manipulate it to benefit the user, using software.
+
+2. I have been thinking about a browser extension that filters out Google search results that "spoil" T.V. shows or movies (ex: "John Smith" auto-filling to "John Smith death"). The nature of the idea is why I chose Youtube Center as a project to evaluate; they are both Chrome extensions. 
+
+3. The repository for Youtube Center is quite large, so I don't think I would be able to comb through all of it. However, examining the different technologies used can help me figure out what I need to build my own extension. A drawback seems to be that the stable release of Youtube Center is broken, and that workarounds seem to be complex and involved. However, since my project is a bit simpler than Youtube Center, it might be easier to develop and maintain.
