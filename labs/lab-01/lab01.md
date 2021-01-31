@@ -51,3 +51,6 @@ log file: at (\w*).(\w*).(\w*)\(((\w*).(\w*)):([0-9]*)\)
 
 ![proof of 7 completion](regex.png)
 
+### Crossword answers to 1, 2, 3, and 5:
+
+![crossword answers](cross.png)
