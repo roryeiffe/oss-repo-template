@@ -54,3 +54,7 @@ In this chapter, "Catalogs", we were told of a student named Jesse Jordan who cr
 ### Crossword answers to 1, 2, 3, and 5:
 
 ![crossword answers](cross.png)
+
+## 5. Blockly Maze
+
+![Maze solution](maze.png)
