@@ -41,13 +41,13 @@ In this chapter, "Catalogs", we were told of a student named Jesse Jordan who cr
 ## 4. Regex
 
 ### Answers to part 1:
-decimals: ^-?[0-9]*(,*[0-9]{3})*(\.){0,1}[0-9]*e*[0-9]+$
-phone numbers: ([0-9] )?\(?([0-9]{3})[- \)]?[0-9]{3}[ -]?[0-9]{4}
-emails: ((\w*\.)?\w*\.?\w)\+?[\w]*@
-html: <(\w*).*>.*</\w*>
-image files: ((\w*))\.(png|jpg|gif)$
-trimming whitespace: ^\s*(.*)\s*$
-log file: at (\w*).(\w*).(\w*)\(((\w*).(\w*)):([0-9]*)\)
+#### decimals: ^-?[0-9]*(,*[0-9]{3})*(\.){0,1}[0-9]*e*[0-9]+$
+#### phone numbers: ([0-9] )?\(?([0-9]{3})[- \)]?[0-9]{3}[ -]?[0-9]{4}
+#### emails: ((\w*\.)?\w*\.?\w)\+?[\w]*@
+#### html: <(\w*).*>.*</\w*>
+#### image files: ((\w*))\.(png|jpg|gif)$
+#### trimming whitespace: ^\s*(.*)\s*$
+#### log file: at (\w*).(\w*).(\w*)\(((\w*).(\w*)):([0-9]*)\)
 
 ![proof of 7 completion](regex.png)
 
